@@ -1,6 +1,13 @@
-  #autoType {
+  #autoType 
+  {
 	border-right: 2px solid #fff;
   }
+
+  /* @media (max-width: 768px) {
+    #autoType {
+      
+    }
+  } */
   
   .caretAnimation {
 	animation-name: caret;
